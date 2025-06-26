@@ -1,0 +1,2 @@
+Este archivo contiene ideas preliminares para el prototipo del sistema ASA.
+Aquí se documentarán los primeros bocetos, decisiones de diseño y estructura de las pantallas.
